@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "body": [
+      {
+        "type": "script",
+        "src": "./lib/fastclick.js"
+      },
+      {
+        "type": "script",
+        "contents": "FastClick.attach(document.body)"
+      }
+    ]
+  }
+}
